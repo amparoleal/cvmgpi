@@ -16,9 +16,7 @@ public class Mp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Bienvenidos");
-        System.out.println("Bienvenidos 2");
-        System.out.println("Bienvenidos 3");
+        System.out.println("Version 1.0 Master");
     }
     
 }
