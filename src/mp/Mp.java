@@ -20,6 +20,7 @@ public class Mp {
         System.out.println("Version 1.1 Master");
         System.out.println("Version 2.0 Master");
         System.out.println("Version 2.2 Desa1");
+        System.out.println("Version 2.3 Desa3");
     }
     
 }
